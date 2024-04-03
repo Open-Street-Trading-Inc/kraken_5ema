@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import ccxt
 import matplotlib.pyplot as plt
 import streamlit as st
 
